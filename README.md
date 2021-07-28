@@ -8,11 +8,11 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-ri-2020
 
-in progress
+*in progress
 
 ## vest-ri-2018
 
-in progress
+*in progress
 
 ## vest-ri-2016
 
