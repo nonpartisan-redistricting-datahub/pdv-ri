@@ -8,11 +8,15 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 
 ## vest-ri-2020
 
-*in progress*
+RDH's partner data validation for VEST's 2020 RI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4789406&version=15.0).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2020-rhode-island-precinct-and-election-results/).
 
 ## vest-ri-2018
 
-*in progress*
+RDH's partner data validation for VEST's 2018 RI file. VEST's raw file is available [here](https://dataverse.harvard.edu/file.xhtml?fileId=4789398&version=43.0).
+
+View the final report [here](https://redistrictingdatahub.org/dataset/vest-2018-rhode-island-precinct-and-election-results/).
 
 ## vest-ri-2016
 
