@@ -1,4 +1,4 @@
-# vest-il-2018
+# vest-ri-2016
 
 Our final election results validation report for this dataset is available [here](https://redistrictingdatahub.org/dataset/vest-2016-rhode-island-precinct-and-election-results/).
 
