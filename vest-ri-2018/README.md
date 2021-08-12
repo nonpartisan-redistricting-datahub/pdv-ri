@@ -13,7 +13,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: VEST RI 2018 file
    - Date accessed: 7/29/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4789398&version=43.0
-   - File: `ri_2016.zip`
+   - File: `ri_2018.zip`
 - File: VEST documentation file, 2018
    - Date accessed: 7/29/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4938247&version=43.0
