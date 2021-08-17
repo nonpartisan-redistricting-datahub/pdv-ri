@@ -18,7 +18,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
    - Date accessed: 7/29/2021
    - Link: https://dataverse.harvard.edu/file.xhtml?fileId=4938247&version=43.0
    - File: `documentation.txt`
-- Election results from Rhode Island Board of Elections
+- File: Election results from Rhode Island Board of Elections
     - Date accessed: 7/29/2021
     - Link: https://www.ri.gov/election/results/2018/general_election/data/
     - Note: The Long Format file was used for validation
@@ -26,6 +26,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
     - Date accessed: 7/29/2021
     - Link: https://www.ri.gov/election/results/2018/general_election/data/
     - Note: Data description pdf file is not necessary to run the notebook, but useful for disambiguation
+- File: US FIPS Codes
+    - File: `US_FIPS_Codes.csv`
 
 ## File processing:
 
