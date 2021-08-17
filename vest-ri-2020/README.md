@@ -26,6 +26,8 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
     - Date accessed: 08/03/2021
     - Link: https://www.ri.gov/election/results/2020/general_election/data/ 
     - Note: Data description pdf file is not necessary to run the notebook, but useful for disambiguation
+- File: US FIPS Codes
+    - File: `US_FIPS_Codes.csv`
 
 ## File processing:
 
